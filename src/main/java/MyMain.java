@@ -28,5 +28,10 @@ public class MyMain {
         System.out.println("I remember when I was "+ age);
 
         scan.close();
+        scan1.close();
+        scan2.close();
+        scan3.close();
+        scan4.close();
+
     }
 }
